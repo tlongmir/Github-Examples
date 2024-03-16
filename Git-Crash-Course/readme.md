@@ -57,6 +57,18 @@ cd /workspace/tmp
 git clone https://github.com/tlongmir/Github-Examples.git
 ```
 ## Branches
+List of branches
+```
+git branch
+```
+Create a new Branch
+```
+git branch branch-name
+```
+Checkout the branch
+```
+git checkout dev
+```
 
 ## Remotes
 
