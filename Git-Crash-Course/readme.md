@@ -68,6 +68,9 @@ Checkout the branch
 ```
 git checkout dev
 ```
+```
+git push -u origin dev
+```
 
 ## Remotes
 
